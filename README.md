@@ -4,7 +4,7 @@ High school senior passionate about machine learning, procedural generation, and
 
 ## Featured Projects
 
-**[Incremental Strategy Game](https://www.roblox.com/games/15902657474/)** - Reached 200k+ organic players. Optimized server performance by replacing recursive pricing with closed-form geometric series solution (O(n) → O(1)), eliminating lag entirely.
+**[Incremental Strategy Game](https://www.roblox.com/games/15902657474/)** - Reached 200k+ organic players. Optimized server performance by replacing recursive pricing with closed-form geometric series solution (O(n) → O(1)), eliminating a source of massive lag.
 
 **[Self-Hosted Web Infrastructure](https://github.com/Braj-Sekhon/Website)** - Built understanding of web infrastructure from first principles: Apache on my PC → DNS/SSL configuration → SvelteKit deployment on Vercel.
 

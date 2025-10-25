@@ -7,7 +7,7 @@ High school senior passionate about machine learning, procedural generation, and
 
 **[Self-Hosted Web Infrastructure](https://github.com/Braj-Sekhon/Website)** - Built understanding of web infrastructure from first principles: self-hosted static site w/ Apache → DNS/SSL w/ Argo Tunnel → converted to SvelteKit & deployed on Vercel.
 
-**[Multi-Threaded Lottery Simulator](https://github.com/Braj-Sekhon/lottery-sim)** - Achieved 6.7× speedup through multi-threading with batched updates to eliminate lock contention. Learned that more threads ≠ better performance without careful synchronization design.
+**[Multi-Threaded Lottery Simulator](https://github.com/Braj-Sekhon/Lottery-Simulation)** - Achieved 6.7× speedup through multi-threading with batched updates to eliminate lock contention. Learned that more threads ≠ better performance without careful synchronization design.
 
 **[Notes Manager](https://github.com/Braj-Sekhon/notes-manager)** - Windows desktop app with embedded file browser—no more file dialog popups. Includes honest reflection on why my 'encryption' isn't real encryption.
 

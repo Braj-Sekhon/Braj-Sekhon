@@ -14,3 +14,4 @@ Computer Science student at the University of Michigan focused on concurrency, l
 
 ## Find me
 [LinkedIn](https://linkedin.com/in/brajsekhon)
+[Email](mailto:braj@umich.edu)

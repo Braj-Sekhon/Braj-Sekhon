@@ -1,5 +1,6 @@
 # Hi, I'm Braj
-High school senior passionate about machine learning, procedural generation, and computational mathematics. Aspiring research professor focused on problems at the intersection of clever algorithms and computational scale.
+
+Computer Science student at the University of Michigan focused on concurrency, low-latency C++, and performance optimization.
 
 ## Featured Projects
 
